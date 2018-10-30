@@ -1,5 +1,5 @@
 _repo: The-World-English-Bible-WEB-Matthew_8267
-_version: 0.1.0
+_version: 0.1.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Bible. Matthew'
 - !lcc 'BS'
+- GITenberg
 title: 'The World English Bible (WEB): Matthew'
 url: http://www.gutenberg.org/ebooks/8267
